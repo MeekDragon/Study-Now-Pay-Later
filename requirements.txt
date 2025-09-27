@@ -1,0 +1,15 @@
+# Core Application Dependencies
+flask==3.0.2
+opencv-python==4.9.0.80
+matplotlib==3.8.3
+numpy==1.26.4
+
+# AI/ML Dependencies
+tensorflow==2.16.1
+mediapipe==0.10.21
+protobuf==4.25.3  # Explicit version for compatibility
+
+# Training-specific
+pandas==2.2.1
+scikit-learn==1.4.1.post1
+kaggle==1.6.3
